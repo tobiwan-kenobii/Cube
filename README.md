@@ -1,5 +1,5 @@
 # Demo README 
 
 ...
-desc.
+description
 ...
